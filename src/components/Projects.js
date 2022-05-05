@@ -1,7 +1,7 @@
 // Import Assets
 import experiments from '../assets/taake.jpg';
 import work from '../assets/phys.jpg';
-import aave from '../assets/aave.png';
+import pg from '../assets/pg.jpg';
 
 const Projects = () => {
     return (
@@ -34,13 +34,14 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>Aave</h3>
-                    <img src={aave} alt="Aave Landing Page" />
-                    <p>Nothing here yet
+                    <h3>Paragliding</h3>
+                    <img src={pg} alt="My WWW Sites" />
+                    <p>Experimenting on www, this is my Website, but I'm also
+                    content manager and contributor to my paragliger club's page.
                     </p>
 
-                    <a href="." target="_blank" className="button">Site</a>
-                    <a href="." target="_blank" className="button">Code</a>
+                    <a href="https://gjerrestad.no" target="_blank" className="button">Homepage</a>
+                    <a href="https://apgk.no" target="_blank" className="button">Paraglider</a>
                 </div>
             </div>
         </section>

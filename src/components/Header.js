@@ -7,7 +7,7 @@ const Header = () => {
             <img src={profile} alt="Tor Gjerrestad" />
 
             <div className='header__content'>
-                <h1>Hi, I'm Tor Gjerrestad</h1>
+                <h1>Tor Gjerrestad</h1>
                 <p>Science experiments Developer</p>
                 <button className='button'>Get In Touch</button>
             </div>

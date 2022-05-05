@@ -8,13 +8,17 @@ const Experience = () => {
                     <i>Oslo University</i>, 1993-2002
                     <ul>
                         <li>Graduated with ok grades</li>
+                        <li>Studied physics 2 years</li>
+                        <li>Studied mathematics 2 years</li>
+                        <li>Studied informatics 4 years</li>
                     </ul>
                 </li>
                 <li>
                     <i>Work</i> - <strong>IT - teacher</strong>, 2018-2021
                     <ul>
-                        <li>Studied physics & mathematics</li>
                         <li>Works as teacher at high school</li>
+                        <li>Side projects: web site developer</li>
+                        <li>Programming: Python, Javascript, HTML, CSS</li>
                     </ul>
                 </li>
                 <li>
