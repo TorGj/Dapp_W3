@@ -18,8 +18,8 @@ const Projects = () => {
                     is also with 4x viewable area compared to most other models.
                     </p>
 
-                    <a href="." target="_blank" className="button">Site</a>
-                    <a href="." target="_blank" className="button">Code</a>
+                    <a href="https://hackaday.com/" target="_blank" className="button">Hackaday</a>
+                    <a href="https://github.com/TorGj" target="_blank" className="button">GitHub</a>
                 </div>
 
                 <div className="projects__card">
@@ -29,8 +29,8 @@ const Projects = () => {
                     physics, informatics.
                     </p>
 
-                    <a href="." target="_blank" className="button">Site</a>
-                    <a href="." target="_blank" className="button">Code</a>
+                    <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" className="button">School</a>
+                    <a href="https://canvas.akademiet.no/" target="_blank" className="button">Canvas</a>
                 </div>
 
                 <div className="projects__card">
@@ -40,8 +40,8 @@ const Projects = () => {
                     content manager and contributor to my paragliger club's page.
                     </p>
 
-                    <a href="https://gjerrestad.no" target="_blank" className="button">Homepage</a>
-                    <a href="https://apgk.no" target="_blank" className="button">Paraglider</a>
+                    <a href="https://gjerrestad.no" target="_blank" className="button">Site</a>
+                    <a href="https://apgk.no" target="_blank" className="button">PG Club</a>
                 </div>
             </div>
         </section>

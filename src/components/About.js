@@ -8,10 +8,10 @@ const About = () => {
             <p>
                 Master of Science (Informatics) educated at University of Oslo (Norway).
                 <li>Born 1974. Hometown: Ålesund, Norway.</li>
-                <li>Experienced paraglider pilot, travels a lot in May, June and July to get to nice places to fly.</li>
+                <li>Experienced paraglider pilot, travels a lot in May, June and July to reach nice places to fly.</li>
 
-                <li>Father of two (2003 and 2007), and I'm still tougether with their wonderful mother :-)</li>
-                <li>I'm interested in electronics, physics, mathematics, and do some experimenting at my home lab.</li>
+                <li>Father of two (2003 and 2007), and I'm still with their wonderful mother :-)</li>
+                <li>Interested in electronics, physics, mathematics, and experimenting at my home lab.</li>
                 <li>I ride a Yamaha XT 600 (motorcycle) when possible, mostly up in the mountains.</li>
             </p>
         </section>

@@ -5,9 +5,9 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Oslo University</i>, 1993-2002
+                    <i>University of Oslo</i>, 1993-2002
                     <ul>
-                        <li>Graduated with ok grades</li>
+                        <li>Graduated Master of Science, with Good grades</li>
                         <li>Studied physics 2 years</li>
                         <li>Studied mathematics 2 years</li>
                         <li>Studied informatics 4 years</li>
