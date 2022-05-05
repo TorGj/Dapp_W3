@@ -17,7 +17,9 @@ const Projects = () => {
                     it is silent, light weight, cheap and instantly working. It
                     is also with 4x viewable area compared to most other models.
                     I also develop new experiments and demonstrations, including
-                    vacuum, liquid nitogen, high voltage, high current and high velocity.
+                    vacuum, liquid nitogen, high voltage, high current and high velocity. Sometimes
+                    a great deal of sound also happens, typically when experimenting width
+                    high pressure.
                     </p>
 
                     <a href="https://hackaday.com/" target="_blank" className="button">Hackaday</a>
@@ -33,7 +35,7 @@ const Projects = () => {
                     content manager and contributor to my paragliger club's site.
                     </p>
 
-                    <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" className="button">School</a>
+                    <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" className="button">Akademiet</a>
                     <a href="https://canvas.akademiet.no/" target="_blank" className="button">Canvas</a>
                 </div>
 
@@ -46,7 +48,7 @@ const Projects = () => {
                      and held several beginner courses. In my area there are mountains and fjords, quite spectacular scenery.
                     </p>
 
-                    <a href="https://gjerrestad.no" target="_blank" className="button">Site</a>
+                    <a href="https://gjerrestad.no" target="_blank" className="button">My Site</a>
                     <a href="https://apgk.no" target="_blank" className="button">PG Club</a>
                 </div>
             </div>
