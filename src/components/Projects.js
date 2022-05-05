@@ -26,7 +26,9 @@ const Projects = () => {
                     <h3>Work</h3>
                     <img src={work} alt="Work Related Content" />
                     <p>I'm a High School Science teacher. My subjects are mathematics,
-                    physics, informatics.
+                    physics, informatics. I've also done private lessons for university students
+                    in mathematics. Experimenting on www at work. I've got a persoal Website, but I'm also
+                    content manager and contributor to my paragliger club's site.
                     </p>
 
                     <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" className="button">School</a>
@@ -35,9 +37,11 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>Paragliding</h3>
-                    <img src={pg} alt="My WWW Sites" />
-                    <p>Experimenting on www, this is my Website, but I'm also
-                    content manager and contributor to my paragliger club's page.
+                    <img src={pg} alt="Paragliding" />
+                    <p>
+                    I'm an cross country paraglider pilot. Ranked no.11 2021 in Norway. I've between
+                    paragliding since 2007. In 2013 I got my paraglider instructor license,
+                     and held several beginner courses. In my area there are mountains and fjords, quite spectacular scenery.
                     </p>
 
                     <a href="https://gjerrestad.no" target="_blank" className="button">Site</a>

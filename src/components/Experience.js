@@ -14,11 +14,13 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
-                    <i>Work</i> - <strong>IT - teacher</strong>, 2018-2021
+                    <i>Work</i> - <strong>Teacher</strong>, 2018-2021
                     <ul>
-                        <li>Works as teacher at high school</li>
+                        <li>Works as science teacher at high school</li>
                         <li>Side projects: web site developer</li>
                         <li>Programming: Python, Javascript, HTML, CSS</li>
+                        <li>Building computers</li>
+                        <li>Works as teacher at high school</li>
                     </ul>
                 </li>
                 <li>
