@@ -22,8 +22,8 @@ const Projects = () => {
                     high pressure.
                     </p>
 
-                    <a href="https://hackaday.com/" target="_blank" className="button">Hackaday</a>
-                    <a href="https://github.com/TorGj" target="_blank" className="button">GitHub</a>
+                    <a href="https://hackaday.com/" target="_blank" rel="noreferrer" className="button">Hackaday</a>
+                    <a href="https://github.com/TorGj" target="_blank" rel="noreferrer" className="button">GitHub</a>
                 </div>
 
                 <div className="projects__card">
@@ -36,8 +36,8 @@ const Projects = () => {
                     some new areas to explore, so send me a message if you wold like to hire me.
                     </p>
 
-                    <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" className="button">Akademiet</a>
-                    <a href="https://canvas.akademiet.no/" target="_blank" className="button">Canvas</a>
+                    <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" rel="noreferrer" className="button">Akademiet</a>
+                    <a href="https://canvas.akademiet.no/" target="_blank" rel="noreferrer" className="button">Canvas</a>
                 </div>
 
                 <div className="projects__card">
@@ -49,8 +49,8 @@ const Projects = () => {
                      and I've been lead instructor for several beginner courses. In my area there are mountains and fjords, quite spectacular scenery.
                     </p>
 
-                    <a href="https://gjerrestad.no" target="_blank" className="button">My Site</a>
-                    <a href="https://apgk.no" target="_blank" className="button">PG Club</a>
+                    <a href="https://gjerrestad.no" target="_blank" rel="noreferrer" className="button">My Site</a>
+                    <a href="https://apgk.no" target="_blank" rel="noreferrer" className="button">PG Club</a>
                 </div>
             </div>
         </section>

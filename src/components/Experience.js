@@ -20,7 +20,6 @@ const Experience = () => {
                         <li>Side projects: web site developer</li>
                         <li>Programming: Python, Javascript, HTML, CSS</li>
                         <li>Building computers</li>
-                        <li>Works as teacher at high school</li>
                     </ul>
                 </li>
                 <li>
