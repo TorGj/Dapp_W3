@@ -16,6 +16,8 @@ const Projects = () => {
                     <p>This is an early prototype of my cloud chamber,
                     it is silent, light weight, cheap and instantly working. It
                     is also with 4x viewable area compared to most other models.
+                    I also develop new experiments and demonstrations, including
+                    vacuum, liquid nitogen, high voltage, high current and high velocity.
                     </p>
 
                     <a href="https://hackaday.com/" target="_blank" className="button">Hackaday</a>
