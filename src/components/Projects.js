@@ -46,7 +46,7 @@ const Projects = () => {
                     <p>
                     I'm an cross country paraglider pilot. Ranked no.11 2021 in Norway. I've between
                     paragliding since 2007. In 2013 I got my paraglider instructor license,
-                     and held several beginner courses. In my area there are mountains and fjords, quite spectacular scenery.
+                     and I've been lead instructor for several beginner courses. In my area there are mountains and fjords, quite spectacular scenery.
                     </p>
 
                     <a href="https://gjerrestad.no" target="_blank" className="button">My Site</a>
