@@ -32,7 +32,8 @@ const Projects = () => {
                     <p>I'm a High School Science teacher. My subjects are mathematics,
                     physics, informatics. I've also done private lessons for university students
                     in mathematics. Experimenting on www at work. I've got a persoal Website, but I'm also
-                    content manager and contributor to my paragliger club's site.
+                    developer, content manager and contributor to my paraglider club's site. I'd like
+                    some new areas to explore, so send me a message if you wold like to hire me.
                     </p>
 
                     <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" className="button">Akademiet</a>
