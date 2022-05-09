@@ -6,7 +6,7 @@ import pg from '../assets/pg.jpg';
 const Projects = () => {
     return (
         <section className="projects">
-            <h2>My Projects</h2>
+            <h2>What I do</h2>
 
             <div className="projects__cards">
 
