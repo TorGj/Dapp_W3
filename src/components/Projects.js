@@ -2,6 +2,7 @@
 import experiments from '../assets/taake.jpg';
 import work from '../assets/phys.jpg';
 import pg from '../assets/pg.jpg';
+import vann from '../assets/vann.jpg';
 
 const Projects = () => {
     return (
