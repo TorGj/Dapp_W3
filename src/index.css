@@ -120,7 +120,7 @@ code {
 
 .projects__card {
   max-width: 350px;
-
+  height: 800px;
   padding: 20px;
 
   border: 1px solid #0088BB;
@@ -147,7 +147,7 @@ code {
 }
 
 .projects__card .button {
-  margin: 10px 5px 0;
+  margin: 7px 5px 0;
 }
 
 /* ------------------------------------------------------ */
