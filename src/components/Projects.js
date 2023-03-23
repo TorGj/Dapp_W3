@@ -96,6 +96,9 @@ const Projects = () => {
                         this can mean access to more nature. 
                         If pictured bike is what you choose.
                     </p>
+
+                    <a href="https://www.talaria.cn/" target="_blank" rel="noreferrer" className="button">Talaria</a>
+                    <a href="" target="_blank" rel="noreferrer" className="button">MC-route</a>
                 </div>
 
 
@@ -104,13 +107,11 @@ const Projects = () => {
                     <img src={fam} alt="My family" />
                     <p> I'm lucky to have a moderatly seized family
                         with all four of my kids grandparents beeing 
-                        supportive and reasonally good health. This 
+                        supportive and in reasonally good health. This 
                         summer (2023) we will travel to USA for three
-                        weeks during USA-cup (soccer).
+                        weeks during USA-cup (soccer). 
                     </p>
 
-                    <a href="https://www.talaria.cn/" target="_blank" rel="noreferrer" className="button">Talaria</a>
-                    <a href="" target="_blank" rel="noreferrer" className="button">MC-route</a>
                 </div>
             </div>
         </section>
