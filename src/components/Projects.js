@@ -3,6 +3,7 @@ import experiments from '../assets/taake.jpg';
 import work from '../assets/phys.jpg';
 import pg from '../assets/pg.jpg';
 import vann from '../assets/vann.jpg';
+import vann from '../assets/mc.png';
 
 const Projects = () => {
     return (
@@ -81,6 +82,22 @@ const Projects = () => {
 
                     <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" rel="noreferrer" className="button">Akademiet</a>
                     <a href="https://canvas.akademiet.no/" target="_blank" rel="noreferrer" className="button">Canvas</a>
+                </div>
+
+                <div className="projects__card">
+                    <h3>Previous Work</h3>
+                    <img src={mc} alt="Motorbike" />
+                    <p> I like nature, but I need strong input. 
+                        Electric motocycles can offer low weight,
+                        silent operation, high reliability, 
+                        low maintainance cost. Noone is bothered about
+                        invisible, inaudible and careful riders,
+                        this can mean access to more nature. 
+                        If pictured bike is what you choose.
+                    </p>
+
+                    <a href="https://www.talaria.cn/" target="_blank" rel="noreferrer" className="button">Talaria</a>
+                    <a href="" target="_blank" rel="noreferrer" className="button">MC-route</a>
                 </div>
             </div>
         </section>
