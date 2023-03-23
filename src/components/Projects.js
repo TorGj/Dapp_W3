@@ -3,7 +3,7 @@ import experiments from '../assets/taake.jpg';
 import work from '../assets/phys.jpg';
 import pg from '../assets/pg.jpg';
 import vann from '../assets/vann.jpg';
-import vann from '../assets/mc.png';
+import mc from '../assets/mc.png';
 
 const Projects = () => {
     return (
