@@ -30,14 +30,20 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Work</h3>
                     <img src={vann} alt="Work Related Content" />
-                    <p>My work is Supervisory Control and Data Acquisition (SCADA) development for Ålesund municipality's water treatment plant
-                       and sewage treatment plant. Sensors are installed and configured before connection. 
-                       Choosing between competing technologies can be exciting and challenging. 
-                       Contact with service and equipment suppliers requires personal engagement.
+                    <p> My work is Supervisory Control and 
+                        Data Acquisition (SCADA) development 
+                        for Ålesund municipality's water 
+                        treatment plant and sewage treatment.
+                        Sensors are installed and configured 
+                        by me before connection. Choosing 
+                        between competing technologies can 
+                        be exciting and challenging. Contact 
+                        with service and equipment suppliers 
+                        requires personal engagement.
                     </p>
 
                     <a href="https://alesund.kommune.no/veg-vatn-og-avlop/vatn-og-avlop/" target="_blank" rel="noreferrer" className="button">Water & Sewage</a>
-                    <a href="https://en.wikipedia.org/wiki/SCADA" target="_blank" rel="noreferrer" className="button">Canvas</a>
+                    <a href="https://en.wikipedia.org/wiki/SCADA" target="_blank" rel="noreferrer" className="button">SCADA</a>
                 </div>
 
                 <div className="projects__card">
