@@ -4,6 +4,7 @@ import work from '../assets/phys.jpg';
 import pg from '../assets/pg.jpg';
 import vann from '../assets/vann.jpg';
 import mc from '../assets/mc.png';
+import fam from '../assets/fam.jpg';
 
 const Projects = () => {
     return (
@@ -14,8 +15,8 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>Experiments</h3>
-                    <img src={experiments} alt="Experimens Developing Page" />
-                    <p> This is an early prototype of my cloud
+                    <img src={experiments} alt="Experiments Developer" />
+                    <p> This is my early prototype of a cloud
                         chamber, it is silent, light weight, 
                         cheap and instantly working. I is also
                         with 4x viewable area compared to 
@@ -34,7 +35,7 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>Work</h3>
-                    <img src={vann} alt="Work Related Content" />
+                    <img src={vann} alt="Automation Engineer" />
                     <p> My work is Supervisory Control and 
                         Data Acquisition (SCADA) development 
                         for Ålesund municipality's water 
@@ -68,32 +69,44 @@ const Projects = () => {
                 </div>
                 
                 <div className="projects__card">
-                    <h3>Previous Work</h3>
-                    <img src={work} alt="Work Related Content" />
-                    <p> I was a High School Science teacher. 
-                        My subjects was mathematics, physics, 
+                    <h3>Science Teacher</h3>
+                    <img src={work} alt="High School Science Teacher" />
+                    <p> I was a high school science teacher. 
+                        My subjects was physics, mathematics,  
                         informatics. I've also done private lessons for university
-                    students in mathematics. I've got a self made 
-                    persoal Website, but I'm also developer, content
-                    manager and contributor to my paraglider club's 
-                    site. I likes new areas to explore, so send me a 
-                    message if you like what I do.
+                        students in mathematics. I've got a self made 
+                        persoal Website, with focus on software development,
+                        and related science subjects. Science videos has
+                        been published at YouToube and TikTok.
                     </p>
 
                     <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" rel="noreferrer" className="button">Akademiet</a>
                     <a href="https://canvas.akademiet.no/" target="_blank" rel="noreferrer" className="button">Canvas</a>
                 </div>
 
+
                 <div className="projects__card">
                     <h3>Electric Offroad</h3>
-                    <img src={mc} alt="Motorbike" />
+                    <img src={mc} alt="Motorcycle" />
                     <p> I like nature, but I need strong input. 
                         Electric motocycles can offer low weight,
                         silent operation, high reliability, 
-                        low maintainance cost. Noone is bothered about
+                        low maintainance cost. No one is bothered about
                         invisible, inaudible and careful riders,
                         this can mean access to more nature. 
                         If pictured bike is what you choose.
+                    </p>
+                </div>
+
+
+                <div className="projects__card">
+                    <h3>Family</h3>
+                    <img src={fam} alt="My family" />
+                    <p> I'm lucky to have a moderatly seized family
+                        with all four of my kids grandparents beeing 
+                        supportive and reasonally good health. This 
+                        summer (2023) we will travel to USA for three
+                        weeks during USA-cup (soccer).
                     </p>
 
                     <a href="https://www.talaria.cn/" target="_blank" rel="noreferrer" className="button">Talaria</a>
