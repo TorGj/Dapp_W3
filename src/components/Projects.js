@@ -28,16 +28,15 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>Work</h3>
-                    <img src={work} alt="Work Related Content" />
-                    <p>I'm a High School Science teacher. My subjects are mathematics,
-                    physics, informatics. I've also done private lessons for university students
-                    in mathematics. Experimenting on www at work. I've got a persoal Website, but I'm also
-                    developer, content manager and contributor to my paraglider club's site. I'd like
-                    some new areas to explore, so send me a message if you wold like to hire me.
+                    <img src={vann} alt="Work Related Content" />
+                    <p>My work is Supervisory Control and Data Acquisition (SCADA) development for Ålesund municipality's water treatment plant
+                       and sewage treatment plant. Sensors are installed and configured before connection. 
+                       Choosing between competing technologies can be exciting and challenging. 
+                       Contact with service and equipment suppliers requires personal engagement.
                     </p>
 
-                    <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" rel="noreferrer" className="button">Akademiet</a>
-                    <a href="https://canvas.akademiet.no/" target="_blank" rel="noreferrer" className="button">Canvas</a>
+                    <a href="https://alesund.kommune.no/veg-vatn-og-avlop/vatn-og-avlop/" target="_blank" rel="noreferrer" className="button">Water & Sewage</a>
+                    <a href="https://en.wikipedia.org/wiki/SCADA" target="_blank" rel="noreferrer" className="button">Canvas</a>
                 </div>
 
                 <div className="projects__card">
@@ -51,6 +50,20 @@ const Projects = () => {
 
                     <a href="https://gjerrestad.no" target="_blank" rel="noreferrer" className="button">My Site</a>
                     <a href="https://apgk.no" target="_blank" rel="noreferrer" className="button">PG Club</a>
+                </div>
+                
+                <div className="projects__card">
+                    <h3>Prewious Work</h3>
+                    <img src={work} alt="Work Related Content" />
+                    <p>I'm a High School Science teacher. My subjects are mathematics,
+                    physics, informatics. I've also done private lessons for university students
+                    in mathematics. Experimenting on www at work. I've got a persoal Website, but I'm also
+                    developer, content manager and contributor to my paraglider club's site. I'd like
+                    some new areas to explore, so send me a message if you wold like to hire me.
+                    </p>
+
+                    <a href="https://www.akademiet.no/vgs/skolesteder/alesund/" target="_blank" rel="noreferrer" className="button">Akademiet</a>
+                    <a href="https://canvas.akademiet.no/" target="_blank" rel="noreferrer" className="button">Canvas</a>
                 </div>
             </div>
         </section>
