@@ -9,7 +9,7 @@ const Header = () => {
             <div className='header__content'>
                 <h1>Tor Gjerrestad</h1>
                 <p>Science Experiments Developer</p>
-                <button className='button' a href='mailto:tortur@gmail.com'>Send mail</a>Get In Touch</button>
+                <a href="mailto:tortur@gmail.com" className="button">Send mail</a>
             </div>
         </section>
     );
