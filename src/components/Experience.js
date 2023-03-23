@@ -17,6 +17,12 @@ const Experience = () => {
                     <i>Work</i> - <strong> Automation Engineer </strong>, 2022-current
                     <ul>
                         <li>Supervisory Control and Data Acquisition (SCADA)</li>
+                        <li>Procurement</li>
+                        <li>IT - Support</li>
+                        <li>Technical CRM</li>
+                       
+                    </ul>
+    
                     <i>Work</i> - <strong>Teacher</strong>, 2002-2022
                     <ul>
                         <li>Science teacher at high school</li>
