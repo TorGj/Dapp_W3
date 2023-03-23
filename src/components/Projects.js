@@ -85,7 +85,7 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>Previous Work</h3>
+                    <h3>Electric Offroad</h3>
                     <img src={mc} alt="Motorbike" />
                     <p> I like nature, but I need strong input. 
                         Electric motocycles can offer low weight,
